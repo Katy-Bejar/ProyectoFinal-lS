@@ -11,7 +11,6 @@ body {
 
 .header {
     background-color: #21c8c0;
-    /*para la parte superior de la pagina web*/
 }
 
 .nav {
@@ -71,7 +70,6 @@ body {
 }
 
 
-/*Index - Publicaciones*/
 
 article {
     padding: 10px 0;
@@ -95,7 +93,7 @@ article header .about {
 }
 
 
-/*Formularios*/
+/*registrarse*/
 
 form {
     margin: 0 auto;
@@ -123,7 +121,7 @@ form input[type=submit]:hover {
 }
 
 
-/* LOGIN*/
+/* Inicio de sesion*/
 
 .login {
     max-width: 50%;
