@@ -20,7 +20,7 @@
 ![](imagenes/estilo1.jpeg)
 
 4. Organización de archivos y carpetas
-< img src=imagenes/estilo5.jpeg widht="100" height="50">
+< img src="imagenes/estilo5.jpeg" width="100" height="50">
 
 
 
