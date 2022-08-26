@@ -19,7 +19,7 @@ En cada porción de código que se va analizando se observa mediante un comentar
 
 ## 4. Organización de archivos y carpetas
 Es recomendable dividir carpetas y archivos para una mejor distribución del proyecto.
-<img src="imagenes/estilo5.jpeg" width="400" height="750">
+<br> <img src="imagenes/estilo5.jpeg" width="400" height="750">
 
 ## 5. Evite la anidación profunda
 Se debe de evitar la anidación profunda, ya se si no se cumpla con esta práctica el código sería menos entendible.
