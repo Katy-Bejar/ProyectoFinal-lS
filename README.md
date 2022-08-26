@@ -14,8 +14,9 @@
 1. Comentarios y documentación
 
 2. Sangría consistente
-![](imagenes/estilo2)
-3. 
+![](imagenes/estilo2.jpeg)
+
+3. Agrupación de código 
 
 
 
