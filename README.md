@@ -11,10 +11,10 @@
 
 
 # Codificación legible
-1. 
+1. Comentarios y documentación
 
-2. 
-
+2. Sangría consistente
+![](imagenes/estilo2)
 3. 
 
 
