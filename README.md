@@ -17,6 +17,10 @@
 ![](imagenes/estilo2.jpeg)
 
 3. Agrupación de código 
+![](imagenes/estilo1.jpeg)
+
+4. Organización de archivos y carpetas
+![](imagenes/estilo5.jpeg)
 
 
 
