@@ -20,7 +20,7 @@
 ![](imagenes/estilo1.jpeg)
 
 4. Organización de archivos y carpetas
-![](imagenes/estilo5.jpeg)
+![](imagenes/estilo5.jpeg widht="100" height="50")
 
 
 
