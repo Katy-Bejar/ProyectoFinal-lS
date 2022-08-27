@@ -46,6 +46,7 @@ Se debe de evitar la anidación profunda, ya se si no se cumpla con esta prácti
 # Principios SOLID
 ## 1. Open/Closed
 
+![](imagenes/solid1.jpeg)
 
 ## 2. Single Responsability
 Una clase debe tener una sola responsabilidad. Este principio se ocupa específicamente de la cohesión. La cohesión se define como la afinidad funcional de los elementos de un módulo.
