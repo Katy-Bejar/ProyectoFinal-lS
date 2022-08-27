@@ -58,6 +58,6 @@ Clase principal:
 ![](imagenes/claseprincipal.jpeg)
 
 Clase secundaria:
-![](imagenes/e2.jpeg)
+![](imagenes/solid1.jpeg)
 
 
