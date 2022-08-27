@@ -12,8 +12,9 @@ El estilo 'Things' tiene sentido para el dominio del problema.
 Lo usamos en la carpeta Modelos/Evento.y
 ![](imagenes/e2.jpeg)
 
-## 3. 
-
+## 3. Pipeline
+Es un estilo de programación orientado a objetos ...
+![](imagenes/e3.jpeg)
 
 
 # Codificación legible
@@ -46,8 +47,9 @@ Se debe de evitar la anidación profunda, ya se si no se cumpla con esta prácti
 ## 1. Open/Closed
 
 
-## 2. 
-
+## 2. Single Responsability
+Una clase debe tener una sola responsabilidad. Este principio se ocupa específicamente de la cohesión. La cohesión se define como la afinidad funcional de los elementos de un módulo.
+![](imagenes/e2.jpeg)
 
 ## 3. 
 
