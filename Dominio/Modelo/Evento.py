@@ -2,29 +2,28 @@
 #-*- coding: utf-8 -*-
 
 class Evento:
-    def __init__(self):
-        self.tipoEvento = None
-        self.nombre = None
-        self.fecha = None
-        self.descripcion = None
-        self.lugar = None
-        self.Attribute1 = None
+    def __init__(self, tipoEvento, nombre, fecha, descripcion, lugar):
+        self.tipoEvento = tipoEvento
+        self.nombre = nombre
+        self.fecha = fecha
+        self.descripcion = descripcion
+        self.lugar = lugar
 
     def setFecha(self, fecha):
-        pass
+        self.fecha = fecha
 
     def getFecha(self, ):
-        pass
+        return self.fecha
 
     def setLugar(self, lugar):
-        pass
+        self.lugar = lugar
 
     def getLugar(self, ):
-        pass
+        return self.lugar
 
     def setDescripcion(self, descripcion):
-        pass
+        self.descripcion = descripcion
 
     def getDescripcion(self, ):
-        pass
+        return self.descripcion
 

@@ -2,10 +2,9 @@
 #-*- coding: utf-8 -*-
 
 class TipoEvento:
-    def __init__(self):
-        self.seccionEvento = None
-        self.numEventos = None
-        self.Attribute1 = None
+    def __init__(self, seccionEvento, numEventos):
+        self.seccionEvento = seccionEvento
+        self.numEventos = numEventos
 
     def setSeccionEvento(self, seccionEvento):
         pass

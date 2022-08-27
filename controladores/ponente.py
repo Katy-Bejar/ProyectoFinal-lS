@@ -16,9 +16,7 @@ def registro():
     if request.method == 'POST':
         username = request.form.get('username')
         password = request.form.get('password')
-
-        user = User(username, generate_password_hash(password))
-        
+        user = User(username, generate_password_hash(password))   
     return render_template('registro.html')
 
 
@@ -38,12 +36,10 @@ def inicioSesion():
 @ponente.before_app_request
 def load_logged_in_user():
     user_id = session.get('user_id')
-
     if user_id is None:
         g.user = None
     else:
         g.user = User.query.get_or_404(user_id)
-
 
 
 @ponente.route('/logout')

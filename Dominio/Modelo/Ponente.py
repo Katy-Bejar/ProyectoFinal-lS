@@ -4,14 +4,20 @@
 from Usuario import Usuario
 
 class Ponente(Usuario):
-    def __init__(self):
-        self.nacionalidad = None
-        self.especialidad = None
-        self.numPublicaiones = None
+    def __init__(self, nacionalidad,especialidad, numPublicaiones):
+        self.nacionalidad = nacionalidad
+        self.especialidad = especialidad
+        self.numPublicaiones = numPublicaiones
 
+    def especialidad(self):
+        return self.especialidad
+    
+    def numPublicaiones(self):
+        return self.numPublicaiones
+    
     def setNumPublicaciones(self, numPublicaiones):
-        pass
+        self.numPublicaiones = numPublicaiones
 
     def getNumPublicaciones(self, ):
-        pass
+        return self.numPublicaiones
 

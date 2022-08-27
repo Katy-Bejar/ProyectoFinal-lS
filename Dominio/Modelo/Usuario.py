@@ -1,12 +1,21 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
 
+class Nombre:
+    def __init__(self, nombre, apellido):
+        self.nombre = nombre
+        self.apellido = apellido
+        
+    def fullName(self):
+        return "{} {}".format(self.nombre, self.apellido)
+
+
 class Usuario:
-    def __init__(self):
-        self.usuarioID = None
-        self.nombre = None
-        self.correo = None
-        self.contraseña = None
+    def __init__(self, IDusuario, nombre, apellido, correo, contraseña):
+        self.IDusuario = IDusuario
+        self.nombreC = Nombre(nombre, apellido)
+        self.correo = correo
+        self.contraseña = contraseña
 
     def registrar(self, ):
         pass
