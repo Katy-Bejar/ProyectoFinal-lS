@@ -52,7 +52,12 @@ Se debe de evitar la anidación profunda, ya se si no se cumpla con esta prácti
 Una clase debe tener una sola responsabilidad. Este principio se ocupa específicamente de la cohesión. La cohesión se define como la afinidad funcional de los elementos de un módulo.
 ![](imagenes/e2.jpeg)
 
-## 3. 
+## 3. Liskov Substitution Principle (LSP)
+Este principio se trata de una clase principal y una clase secundaria, por lo que la clase base y la clase secundaria se pueden usar indistintamente sin obtener resultados incorrectos.
+Clase principal:
+![](imagenes/clase principal.jpeg)
 
+Clase secundaria:
+![](imagenes/e2.jpeg)
 
 
