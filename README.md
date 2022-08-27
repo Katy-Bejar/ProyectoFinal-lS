@@ -13,7 +13,7 @@ Lo usamos en la carpeta Modelos/Evento.y
 ![](imagenes/e2.jpeg)
 
 ## 3. Pipeline
-Es un estilo de programación orientado a objetos ...
+Es un estilo de programación orientado a objetos las clases contienen funciones que retornan datos que no son compartidos entre otras funciones de la misma clase.
 ![](imagenes/e3.jpeg)
 
 
