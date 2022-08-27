@@ -45,7 +45,7 @@ Se debe de evitar la anidación profunda, ya se si no se cumpla con esta prácti
 
 # Principios SOLID
 ## 1. Open/Closed
-
+Se puede aumentar la cantidad de funciones dentro de la clase Ponente sin alterar su funcionalidad global.
 ![](imagenes/solid1.jpeg)
 
 ## 2. Single Responsability
@@ -55,7 +55,7 @@ Una clase debe tener una sola responsabilidad. Este principio se ocupa específi
 ## 3. Liskov Substitution Principle (LSP)
 Este principio se trata de una clase principal y una clase secundaria, por lo que la clase base y la clase secundaria se pueden usar indistintamente sin obtener resultados incorrectos.
 Clase principal:
-![](imagenes/clase principal.jpeg)
+![](imagenes/claseprincipal.jpeg)
 
 Clase secundaria:
 ![](imagenes/e2.jpeg)
