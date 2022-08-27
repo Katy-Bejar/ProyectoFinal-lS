@@ -1,4 +1,19 @@
-# ProyectoFinal-lS
+# ProyectoFinal-Ingeniería de Software
+
+
+
+# Estilos de Programación
+## 1. Code Golf
+Este estilo se refiere a intentar resolver un problema utilizando la menor cantidad de caracteres posibles.
+![](imagenes/e1.jpeg)
+
+## 2. Things
+El estilo 'Things' tiene sentido para el dominio del problema.
+Lo usamos en la carpeta Modelos/Evento.y
+![](imagenes/e2.jpeg)
+
+## 3. 
+
 
 
 # Codificación legible
@@ -24,4 +39,17 @@ Es recomendable dividir carpetas y archivos para una mejor distribución del pro
 ## 5. Evite la anidación profunda
 Se debe de evitar la anidación profunda, ya se si no se cumpla con esta práctica el código sería menos entendible.
 ![](imagenes/estilo3.jpeg)
+
+
+
+# Principios SOLID
+## 1. Open/Closed
+
+
+## 2. 
+
+
+## 3. 
+
+
 
